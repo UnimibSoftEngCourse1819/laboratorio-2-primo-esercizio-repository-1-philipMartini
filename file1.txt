@@ -3,3 +3,7 @@
 initial content of the first document
 
 Adding content of the first Document
+
+## Second Document
+
+Please see file2.txt for the second document
